@@ -9,4 +9,7 @@ Image of ResNet training summary.
 ![Image of Training Summary](assets/notebook_images/resnet_training.png "ResNet Training Summary")
 
 # AlexNet Classifier for Diabetic Retinopathy (DR)
-This repo contains the small images which are eye scan of patients which can be spli
+In this part of the project we build a AlexNet-inspired neural network to classify patients into those who have DR and those who do not.
+In this repo you will find the dataset of images (stored with Git LFS) located in the ```models``` directory. The ```.h5``` file contains 
+over 1000 images split between 4 classes: No DR, Light DR, Medium DR and Severe DR. The goal of the exercise is to see if we can build a classifier
+that would perform substantially well at figuring out whether the patient, from whom the scan came from, has DR or not. 
