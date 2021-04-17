@@ -5,4 +5,4 @@ Following that we will train the model on the MNIST dataset and look at the perf
 
 Image of ResNet training summary.
 
-![Image of Training Summary](../assets/notebook_images/resnet_training.png "ResNet Training Summary")
+![Image of Training Summary](assets/notebook_images/resnet_training.png "ResNet Training Summary")
