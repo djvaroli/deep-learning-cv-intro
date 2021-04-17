@@ -25,3 +25,5 @@ One thing that we do is compare the performance of AlexNet trained on "just" the
 
 
 When we examine the loss on the test set, we observe that the model trained with the augmented images performs about 5% better than the model trained with the standard dataset (58% vs 53%). We also get very low recall (in the range 0.4 - 0.5). Most likely this is due to the low amount of data, since we only have around 1100 images to work with. 
+
+However, this exercise was good practice for utilizing Tensorflow's data augmentation functionality.
